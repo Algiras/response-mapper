@@ -1,0 +1,15 @@
+{
+  "magic": {
+    "buckets": [
+      {
+        "key": "alfa",
+        "doc_count": 1
+      },
+      {
+        "key": "beta",
+        "doc_count": 2
+      }
+    ],
+    "sum_other_doc_count": 0
+  }
+}
